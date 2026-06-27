@@ -1,0 +1,382 @@
+{
+  "id": "sun-drewface",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@__drewface Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_dc6ceebd9569",
+    "display_name": "__drewface",
+    "user_id": "@__drewface",
+    "description": "Community Archive-derived proof-of-search sun for @__drewface.",
+    "document_count": 13442,
+    "word_count": 370877,
+    "active_days": 1415,
+    "emissions": [
+      "Think",
+      "Want",
+      "Don",
+      "Good",
+      "Should",
+      "Love"
+    ],
+    "generated_at": "2026-06-27T15:16:16.365030+00:00",
+    "color": "#f59e0b",
+    "mass": 12.824
+  },
+  "planets": [
+    {
+      "id": "planet_ed243292fcfa",
+      "name": "Think",
+      "summary": "Archive cluster around think: 10356 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "which",
+        "work",
+        "visakanv",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_29dc1a9b9087",
+          "title": "Think receipt from 2023-11-10",
+          "excerpt": "i'm designing a custom keyboard for when i become a dad https://t.co/vrveys0dJg",
+          "source_document_id": "1723076580468047948",
+          "timestamp": "2023-11-10T20:34:04+00:00",
+          "url": "https://x.com/__drewface/status/1723076580468047948",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, which, work, visakanv."
+        },
+        {
+          "id": "art_478fec9dbfe7",
+          "title": "Think receipt from 2023-07-08",
+          "excerpt": "my friend literally parted the matrix https://t.co/6zfRGR1nYO",
+          "source_document_id": "1677484539545894912",
+          "timestamp": "2023-07-08T01:07:35+00:00",
+          "url": "https://x.com/__drewface/status/1677484539545894912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, which, work, visakanv."
+        },
+        {
+          "id": "art_d074f881c699",
+          "title": "Think receipt from 2024-05-03",
+          "excerpt": "I read a lot of bullshit sentences like \"how can we create social change in a system that seeks to atomize and isolate us.\"\n\nUh... just host dinner parties? Like literally just go knock on your neighbors door. Nobody is seeking to atomize you, you just moved away from home...",
+          "source_document_id": "1786254154580496452",
+          "timestamp": "2024-05-03T04:39:12+00:00",
+          "url": "https://x.com/__drewface/status/1786254154580496452",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, which, work, visakanv."
+        },
+        {
+          "id": "art_7e834d0a335a",
+          "title": "Think receipt from 2024-05-14",
+          "excerpt": "welcome to the world, little one. https://t.co/fNNAjeaU5E",
+          "source_document_id": "1790261323151937636",
+          "timestamp": "2024-05-14T06:02:15+00:00",
+          "url": "https://x.com/__drewface/status/1790261323151937636",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, which, work, visakanv."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c13822e356cc",
+      "proof_score": 1,
+      "mass": 37.387,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_bfb60adb4d23",
+      "name": "Want",
+      "summary": "Archive cluster around want: 864 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "don",
+        "help",
+        "good",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_14b612b9d9dd",
+          "title": "Want receipt from 2022-03-02",
+          "excerpt": "TIL: during the golden age of Athens, the city was about 0.7 sq miles, and held 75,000 people.\n\nFor perspective (pop/sq mile):\n- (Ancient) Athens: 107,000\n- Manhattan: 69,468\n- LA: 8,499\n- SF: 6,266\n\nIf we want a golden age, we should consider raising the density. A lot.",
+          "source_document_id": "1499128263486148616",
+          "timestamp": "2022-03-02T21:03:25+00:00",
+          "url": "https://x.com/__drewface/status/1499128263486148616",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, help, good."
+        },
+        {
+          "id": "art_8de5c976cdfa",
+          "title": "Want receipt from 2021-12-22",
+          "excerpt": "It's crazy how much of the attraction here is just lighting and plants.\n\nWhat people want:\n- automation\n- plants\n- sunlight\n- family\n\nThis is a solvable problem, where is the startup that fills my house with self-managing plants? https://t.co/tsZrynx4rB",
+          "source_document_id": "1473684287648055309",
+          "timestamp": "2021-12-22T15:58:08+00:00",
+          "url": "https://x.com/__drewface/status/1473684287648055309",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, help, good."
+        },
+        {
+          "id": "art_fe5916fa90a7",
+          "title": "Want receipt from 2023-07-08",
+          "excerpt": "okay but imagine if you wrote down:\n\n1) everything you want in life\n2) how other people can help you get it\n3) why they want to help you get it\n\nsome crazy stuff might happen, idk 🤷‍♂️",
+          "source_document_id": "1677509815591895041",
+          "timestamp": "2023-07-08T02:48:01+00:00",
+          "url": "https://x.com/__drewface/status/1677509815591895041",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, help, good."
+        },
+        {
+          "id": "art_282c7a32f866",
+          "title": "Want receipt from 2024-08-22",
+          "excerpt": "@levelsio Leaves out where the money comes from. The money came from a customer who wanted to pay to use a software tool.\n\nCaring more about writing good code than building good tools that people want to pay for is not really virtuous by any means.",
+          "source_document_id": "1826674251937841319",
+          "timestamp": "2024-08-22T17:34:14+00:00",
+          "url": "https://x.com/__drewface/status/1826674251937841319",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, help, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fa7166ce46f8",
+      "proof_score": 1,
+      "mass": 31.313,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_34065eb5092e",
+      "name": "Don",
+      "summary": "Archive cluster around don: 648 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "need",
+        "know",
+        "good",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_265aa2b60472",
+          "title": "Don receipt from 2023-03-20",
+          "excerpt": "\"BAD HABITS\" DON'T EXIST.\n\nYOU ARE NOT \"LAZY\".\n\nBEHAVIORISM IS MADE UP.\n\nYOUR BODY IS TRYING TO SOLVE PROBLEMS THAT YOU AREN'T RECOGNIZING.\n\nWHAT ARE THEY?\n\nASK YOURSELF ABOUT YOUR OWN BEHAVIOR FROM SCRATCH, STOP LETTING POP SCIENCE ARTICLES TELL YOU WHAT YOU ARE.\n\nWAKE UP",
+          "source_document_id": "1637862738222276629",
+          "timestamp": "2023-03-20T17:04:41+00:00",
+          "url": "https://x.com/__drewface/status/1637862738222276629",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, know, good."
+        },
+        {
+          "id": "art_22e345d8e519",
+          "title": "Don receipt from 2023-02-09",
+          "excerpt": "1. Soothing is a basic human need, you can't get rid of it. You can only meet the need.\n\n2. Most of us are self-soothing, because we don't engage in any social soothing after moving away from home.\n\n3. Self-soothing can be so distressing that it is often mislabeled \"addiction\"",
+          "source_document_id": "1623735064872755205",
+          "timestamp": "2023-02-09T17:26:21+00:00",
+          "url": "https://x.com/__drewface/status/1623735064872755205",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, know, good."
+        },
+        {
+          "id": "art_a8c39f7907c4",
+          "title": "Don receipt from 2024-08-25",
+          "excerpt": "accidentally offending someone by being authentic, but then recovering the relationship by continuing to be authentic is one of the great joys of life.\n\ndon't miss out on this opportunity to build strong relationships by calculating everything you say",
+          "source_document_id": "1827537448504631469",
+          "timestamp": "2024-08-25T02:44:16+00:00",
+          "url": "https://x.com/__drewface/status/1827537448504631469",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, know, good."
+        },
+        {
+          "id": "art_6ef69cc0225f",
+          "title": "Don receipt from 2023-07-16",
+          "excerpt": "e-bikes\n- 28mph\n- $1000\n- they don't kill pedestrians\n- fully electric\n- no parking required\n- easy on roads\n\n+ they retain their value. I sold mine for $975 after owning it for 1 year when I moved. https://t.co/JGfVQeFI13 https://t.co/H4uWGPkSHI",
+          "source_document_id": "1680647644924850176",
+          "timestamp": "2023-07-16T18:36:38+00:00",
+          "url": "https://x.com/__drewface/status/1680647644924850176",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, need, know, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_20e6797813a7",
+      "proof_score": 0.998,
+      "mass": 30.471,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_4109afc12b30",
+      "name": "Good",
+      "summary": "Archive cluster around good: 678 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "way",
+        "really",
+        "should",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f5b64e9240a5",
+          "title": "Good receipt from 2023-01-14",
+          "excerpt": "good flirting is giving the other person the option to escalate or back away with plausible deniability and paying attention to which they do\n\nnice, succinct summary h/t @nardposterino",
+          "source_document_id": "1614266828485705729",
+          "timestamp": "2023-01-14T14:22:58+00:00",
+          "url": "https://x.com/__drewface/status/1614266828485705729",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, really, should."
+        },
+        {
+          "id": "art_0b08d73c65f8",
+          "title": "Good receipt from 2024-07-09",
+          "excerpt": "you have been visited by the good luck baby\n\nreply with \"thank you, baby 🙏\" for 1 week good luck\nbeware: if you do not thank baby you will receive one (1) grumpy curse 😵 https://t.co/faTpldhfQe",
+          "source_document_id": "1810751616775299226",
+          "timestamp": "2024-07-09T19:03:22+00:00",
+          "url": "https://x.com/__drewface/status/1810751616775299226",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, really, should."
+        },
+        {
+          "id": "art_2f0548008f2c",
+          "title": "Good receipt from 2023-06-10",
+          "excerpt": "LessWrong deserves more credit for its role in the online intellectual scene we inherited -- especially the kind, good-faith, nerdy essay style.\n\nLessWrong is an intellectual ancestor -- like Grandpa, or Dad. Idiosyncratic, sure. I might disagree, sure. But still family",
+          "source_document_id": "1667379922564702209",
+          "timestamp": "2023-06-10T03:55:26+00:00",
+          "url": "https://x.com/__drewface/status/1667379922564702209",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, really, should."
+        },
+        {
+          "id": "art_ea977e9b0cf6",
+          "title": "Good receipt from 2023-04-13",
+          "excerpt": "I wouldn't be surprised if Netflix and video games are actually meaning-seeking activities, rather than idleness-seeking\n\nPerhaps left without a good story of our own purpose in the world, we're forced to search desperately for it in these fantasy worlds.",
+          "source_document_id": "1646387580789727232",
+          "timestamp": "2023-04-13T05:39:22+00:00",
+          "url": "https://x.com/__drewface/status/1646387580789727232",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, way, really, should."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a2b24ae7933b",
+      "proof_score": 1,
+      "mass": 30.212,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_b58258847771",
+      "name": "Should",
+      "summary": "Archive cluster around should: 442 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "should",
+        "work",
+        "something",
+        "maybe",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5cd59d432c91",
+          "title": "Should receipt from 2024-08-11",
+          "excerpt": "My opinion on the [current cultural issue du jour] is that you should come over for dinner, anon. It's been too long since we've caught up, and besides, I'd love to see how the kids are doing! :)",
+          "source_document_id": "1822495505475080558",
+          "timestamp": "2024-08-11T04:49:23+00:00",
+          "url": "https://x.com/__drewface/status/1822495505475080558",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, work, something, maybe."
+        },
+        {
+          "id": "art_64dafbb37439",
+          "title": "Should receipt from 2024-02-13",
+          "excerpt": "One of the great joys of being a housing-abundance advocate is when rents decline due to \"oversupply\"\n\nIn fact, if oversupply is causing rent \"collapse\", maybe we should just keep building and collapse that price down to a commodity rate 😍 https://t.co/4GwS7FoyLc",
+          "source_document_id": "1757205985037263034",
+          "timestamp": "2024-02-13T00:52:08+00:00",
+          "url": "https://x.com/__drewface/status/1757205985037263034",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, work, something, maybe."
+        },
+        {
+          "id": "art_bff814b7de28",
+          "title": "Should receipt from 2023-03-21",
+          "excerpt": "I feel like I shouldn't have to say this, but if a community offers spiritual + emotional intimacy without any economic support, that should be a serious red flag.",
+          "source_document_id": "1638233981312270336",
+          "timestamp": "2023-03-21T17:39:52+00:00",
+          "url": "https://x.com/__drewface/status/1638233981312270336",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, work, something, maybe."
+        },
+        {
+          "id": "art_23f0ace6076c",
+          "title": "Should receipt from 2023-06-21",
+          "excerpt": "The best essay on Scenius is \"The Power of The Context\" by Alan Kay\n\nIt is worth reading. You should read it. But you probably won't, so here's a thread:\n\nhttps://t.co/fdkDSCH8ZG",
+          "source_document_id": "1671602174290432000",
+          "timestamp": "2023-06-21T19:33:09+00:00",
+          "url": "https://x.com/__drewface/status/1671602174290432000",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: should, work, something, maybe."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4c3162d42962",
+      "proof_score": 0.959,
+      "mass": 28.938,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_2067bb2bc949",
+      "name": "Love",
+      "summary": "Archive cluster around love: 454 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "see",
+        "friends",
+        "life",
+        "most"
+      ],
+      "artifacts": [
+        {
+          "id": "art_40f76bc4a159",
+          "title": "Love receipt from 2024-05-23",
+          "excerpt": "kids only need two things:\n1. love\n2. The Way Things Work by David Macaulay https://t.co/aoPBHl04dq",
+          "source_document_id": "1793779823711801461",
+          "timestamp": "2024-05-23T23:03:31+00:00",
+          "url": "https://x.com/__drewface/status/1793779823711801461",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, friends, life."
+        },
+        {
+          "id": "art_a549004a3b31",
+          "title": "Love receipt from 2023-01-17",
+          "excerpt": "@MegaBasedChad I kinda love the self-own of \"as an adult\"\n\nCorrect, you have successfully lost one of the greatest virtues of children. Congrats!",
+          "source_document_id": "1615186553357189126",
+          "timestamp": "2023-01-17T03:17:37+00:00",
+          "url": "https://x.com/__drewface/status/1615186553357189126",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, friends, life."
+        },
+        {
+          "id": "art_c4b5211458fb",
+          "title": "Love receipt from 2023-07-03",
+          "excerpt": "i love that my friend makes his midjourney art in our shared discord, so I get to see all the beautiful things he is daydreaming about... https://t.co/qreGcGO7X0",
+          "source_document_id": "1675719747214667777",
+          "timestamp": "2023-07-03T04:14:55+00:00",
+          "url": "https://x.com/__drewface/status/1675719747214667777",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, friends, life."
+        },
+        {
+          "id": "art_290af154f6ea",
+          "title": "Love receipt from 2024-05-15",
+          "excerpt": "I love this photo of Priya like (15?) hours after her birth.\n\nShe is so beautiful and strong https://t.co/s6j0EwBeQn",
+          "source_document_id": "1790831371482493237",
+          "timestamp": "2024-05-15T19:47:25+00:00",
+          "url": "https://x.com/__drewface/status/1790831371482493237",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, friends, life."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d699275ec509",
+      "proof_score": 0.962,
+      "mass": 28.529,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
